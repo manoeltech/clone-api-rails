@@ -21,6 +21,9 @@ gem 'puma', '~> 3.0'
 
 gem 'faker'
 
+# Translate
+gem 'i18n'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
